@@ -4,3 +4,4 @@ something else
 add new line
 change second.txt in hotfix2 branch
 älgo
+lola
