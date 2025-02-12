@@ -3,3 +3,4 @@ New line in archivo.txt
 something else
 Change in test-conflict branch
 
+pepe
