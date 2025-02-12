@@ -1,8 +1,5 @@
 Hola. Git!
 New line in archivo.txt
 something else
-<<<<<<< HEAD
-different change in main
-=======
 Change in test-conflict branch
->>>>>>> git-conflict
+
